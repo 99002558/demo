@@ -8,7 +8,6 @@
 namespace {
 
 class LibraryTest : public ::testing::Test {
-
 protected:
   void SetUp() { 
     libs.addBook(1,"bsf","shgfh","wegfuiwg",46.38,437);
@@ -20,11 +19,12 @@ protected:
   Library libs;
  
 };
-
 TEST_F(LibraryTest, AddBookTest) {
   libs.addBook(4, "sdgs", "dfdbbx","vknjbnkfng",65.64,100);
   EXPECT_EQ(4,libs.countAll());
 }
+
+
 TEST_F(LibraryTest, RemoveBookTest) {
   libs.removeBook(2);
   EXPECT_EQ(NULL, libs.findbook(2));
