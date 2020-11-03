@@ -1,0 +1,3 @@
+/home/user/Desktop/demo/demo/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/demo/demo/CMakeFiles/edit_cache.dir
+/home/user/Desktop/demo/demo/CMakeFiles/executeTests.dir
