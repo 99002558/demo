@@ -1,0 +1,463 @@
+.HEA
+.TIM 12/11/2020 12:20:23 PM
+.APP "Eeschema (5.1.8)-1"
+.TYP FULL
+
+.ADD_COM     L1     "SRP4020TA-2R2M"     "genisis:IND_SRP4020TA-2R2M"
+.ADD_COM     R1     "RK73H2ATTD1003F"     "genisis:RESC2012X60N"
+.ADD_COM     C12     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     L5     "SRP4020TA-2R2M"     "genisis:IND_SRP4020TA-2R2M"
+.ADD_COM     C14     "C1206C332F3HAC7800"     "genisis:CAPC3216X100N"
+.ADD_COM     R9     "RK73H2ATTD1601F"     "genisis:RESC2012X60N"
+.ADD_COM     R10     "RK73H2ATTD7500F"     "genisis:RESC2012X60N"
+.ADD_COM     C4     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     R2     "RK73H2ATTD1003F"     "genisis:RESC2012X60N"
+.ADD_COM     C7     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     U1     "TPS62163DSGR"     "genisis:SON50P200X200X80-9N"
+.ADD_COM     U3     "TPS62161DSGR"     "genisis:SON50P200X200X80-9N"
+.ADD_COM     U5     "TPS62142RGTR"     "genisis:QFN50P300X300X100-17N"
+.ADD_COM     J1     "IEC-A-4"     "genisis:IEC-A-4"
+.ADD_COM     U6     "LM324AMX_NOPB"     "genisis:SOIC127P600X175-14N"
+.ADD_COM     R13     "RK73H2ARTTD1802F"     "genisis:RESC2012X60N"
+.ADD_COM     R15     "RK73H2ATTD5101F"     "genisis:RESC2012X60N"
+.ADD_COM     R19     "RK73H2ATTD1601F"     "genisis:RESC2012X60N"
+.ADD_COM     R17     "RK73H2ATTD1601F"     "genisis:RESC2012X60N"
+.ADD_COM     R12     "RK73H2ATTD4301F"     "genisis:RESC2012X60N"
+.ADD_COM     R16     "RK73H2ATTD2201F"     "genisis:RESC2012X60N"
+.ADD_COM     U2     "TPS562201DDCR"     "genisis:SOT95P280X110-6N"
+.ADD_COM     R18     "RK73H2ATTD1601F"     "genisis:RESC2012X60N"
+.ADD_COM     R14     "RK73H2ATTD2701F"     "genisis:RESC2012X60N"
+.ADD_COM     R11     "RK73H2ATTD1502F"     "genisis:RESC2012X60N"
+.ADD_COM     C3     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     L3     "SRP4020TA-2R2M"     "genisis:IND_SRP4020TA-2R2M"
+.ADD_COM     R4     "RC0805FR-1310KL"     "genisis:RESC2012X60N"
+.ADD_COM     T1     "VPP12-2400"     "genisis:XFMR_VPP12-2400"
+.ADD_COM     R8     "RK73H2ATTD1003F"     "genisis:RESC2012X60N"
+.ADD_COM     L2     "SRP4020TA-2R2M"     "genisis:IND_SRP4020TA-2R2M"
+.ADD_COM     C37     "CL31A226KAHNNNE"     "genisis:CAPC3216X180N"
+.ADD_COM     BR1     "DBF310-13"     "genisis:DBF31013"
+.ADD_COM     J12     "CT3151SP-2"     "genisis:CT31510"
+.ADD_COM     J13     "CT3151-0"     "genisis:CT31510"
+.ADD_COM     J8     "CT3151SP-2"     "genisis:CT31510"
+.ADD_COM     J5     "CT3151-0"     "genisis:CT31510"
+.ADD_COM     J11     "CT3151SP-2"     "genisis:CT31510"
+.ADD_COM     J6     "CT3151SP-2"     "genisis:CT31510"
+.ADD_COM     U4     "TPS62140RGTT"     "genisis:QFN50P300X300X100-17N"
+.ADD_COM     C6     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     C8     "C1206C332F3HAC7800"     "genisis:CAPC3216X100N"
+.ADD_COM     L4     "SRP4020TA-2R2M"     "genisis:IND_SRP4020TA-2R2M"
+.ADD_COM     R5     "RK73H2ATTD1003F"     "genisis:RESC2012X60N"
+.ADD_COM     R6     "SG73S2ATTD7502F"     "genisis:RESC2012X60N"
+.ADD_COM     R7     "RK73H2ATTD1503F"     "genisis:RESC2012X60N"
+.ADD_COM     J10     "CT3151-0"     "genisis:CT31510"
+.ADD_COM     J9     "CT3151SP-2"     "genisis:CT31510"
+.ADD_COM     J7     "CT3151-0"     "genisis:CT31510"
+.ADD_COM     C39     "CL21B103KAANNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C43     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     C41     "CL21A105KACLNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C35     "CL21A105KACLNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C31     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C38     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     C26     "CL21B103KAANNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C23     "CL31A226KAHNNNE"     "genisis:CAPC3216X180N"
+.ADD_COM     C15     "CL31A226KAHNNNE"     "genisis:CAPC3216X180N"
+.ADD_COM     C33     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N - Copy"
+.ADD_COM     C21     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C25     "CL21A105KACLNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C13     "CL31A226KAHNNNE"     "genisis:CAPC3216X180N"
+.ADD_COM     C32     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     C20     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C24     "CL21A105KACLNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C16     "CL31A226KAHNNNE"     "genisis:CAPC3216X180N"
+.ADD_COM     C34     "C1206C106J3RACAUTO"     "genisis:CAPC3216X110N"
+.ADD_COM     C27     "CL21A105KACLNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C22     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C10     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C1     "EEE-FK1E102AQ"     "genisis:CAP_UUJ2A470MNQ1MS"
+.ADD_COM     C2     "EEE-FK1E102AQ"     "genisis:CAP_UUJ2A470MNQ1MS"
+.ADD_COM     J2     "PJ-002BH-SMT-TR"     "genisis:CUI_PJ-002BH-SMT-TR"
+.ADD_COM     J4     "CT3151-0"     "genisis:CT31510"
+.ADD_COM     C40     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C9     "EEE-FK1E102AQ"     "genisis:CAP_UUJ2A470MNQ1MS"
+.ADD_COM     C5     "EEE-FK1E102AQ"     "genisis:CAP_UUJ2A470MNQ1MS"
+.ADD_COM     C36     "CL21A475KAQNNNE"     "genisis:CAPC2012X140N"
+.ADD_COM     C30     "CL21A475KAQNNNE"     "genisis:CAPC2012X140N"
+.ADD_COM     C28     "CL21A475KAQNNNE"     "genisis:CAPC2012X140N"
+.ADD_COM     C29     "CL21A475KAQNNNE"     "genisis:CAPC2012X140N"
+.ADD_COM     C42     "CL21A475KAQNNNE"     "genisis:CAPC2012X140N"
+.ADD_COM     L6     "B82724J8302N040"     "genisis:B82724J8302N040"
+.ADD_COM     C11     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C45     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C46     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C47     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C44     "CL21B104KACNNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C18     "CL21B103KAANNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C19     "CL21B103KAANNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     C17     "CL21B103KAANNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     +5V1     "."     "TestPoint:TestPoint_Keystone_5000-5004_Miniature"
+.ADD_COM     +1.8V1     "."     "TestPoint:TestPoint_Keystone_5000-5004_Miniature"
+.ADD_COM     +(0.8V-3V)1     "."     "TestPoint:TestPoint_Keystone_5000-5004_Miniature"
+.ADD_COM     LED2     "LTL2R3KGD-EM"     "genisis:LTL2R3KGDEM"
+.ADD_COM     LED1     "LTL2R3KGD-EM"     "genisis:LTL2R3KGDEM"
+.ADD_COM     LED5     "LTL2R3KGD-EM"     "genisis:LTL2R3KGDEM"
+.ADD_COM     LED3     "LTL2R3KGD-EM"     "genisis:LTL2R3KGDEM"
+.ADD_COM     LED4     "LTL2R3KGD-EM"     "genisis:LTL2R3KGDEM"
+.ADD_COM     F1     "65600001009"     "genisis:65600001009"
+.ADD_COM     C48     "CL21B103KAANNNC"     "genisis:CAPC2012X135N"
+.ADD_COM     +1.2V1     "."     "TestPoint:TestPoint_Keystone_5000-5004_Miniature"
+.ADD_COM     H2     "MountingHole_Pad"     "MountingHole:MountingHole_6mm_Pad"
+.ADD_COM     H3     "MountingHole_Pad"     "MountingHole:MountingHole_6mm_Pad"
+.ADD_COM     H5     "MountingHole_Pad"     "MountingHole:MountingHole_6mm_Pad"
+.ADD_COM     H4     "MountingHole_Pad"     "MountingHole:MountingHole_6mm_Pad"
+.ADD_COM     H6     "MountingHole_Pad"     "MountingHole:MountingHole_6mm_Pad"
+.ADD_COM     H7     "MountingHole_Pad"     "MountingHole:MountingHole_6mm_Pad"
+.ADD_COM     +12V1     "."     "TestPoint:TestPoint_Keystone_5000-5004_Miniature"
+.ADD_COM     J3     "200MSP1T1B2M6QE"     "genisis:200MSP1T1B2M6QE"
+.ADD_COM     R3     "3314G-1-503E"     "genisis:TRIM_3314J-1-202E"
+.ADD_COM     +3.3V1     "."     "TestPoint:TestPoint_Keystone_5000-5004_Miniature"
+
+
+.ADD_TER   C10   2     "Net-(C10-Pad2)"
+.TER       U2   2
+            L3   1
+
+.ADD_TER   C6   2     "GND"
+.TER       C44   2
+            C17   2
+            C8   2
+            J13   4
+            C18   2
+            J13   3
+            C19   2
+            J10   4
+            J10   3
+            J10   1
+            H6   1
+            H7   1
+            U2   1
+            R16   2
+            C15   2
+            C25   2
+            C37   2
+            C33   2
+            R15   2
+            C21   2
+            C20   2
+            J13   2
+            J13   1
+            LED4   1
+            LED2   1
+            LED1   1
+            LED5   1
+            LED3   1
+            C29   1
+            C42   1
+            C47   2
+            U4   15
+            C11   2
+            C45   2
+            U4   17
+            C28   1
+            U3   5
+            C48   1
+            U6   11
+            J10   2
+            U5   6
+            U5   15
+            U5   16
+            U5   17
+            U5   5
+            U4   6
+            C46   2
+            U4   7
+            U4   8
+            U4   16
+            U5   7
+            U5   8
+            H4   1
+            U3   4
+            H2   1
+            H3   1
+            H5   1
+            J4   2
+            J5   2
+            C36   1
+            C30   1
+            J4   3
+            J4   4
+            U1   1
+            J5   4
+            C40   2
+            C9   1
+            U1   4
+            C5   1
+            U1   5
+            J5   3
+            U3   1
+            J5   1
+            C34   2
+            J4   1
+            J2   2
+            J2   3
+            C4   2
+            R4   2
+            C22   2
+            C2   1
+            C1   1
+            C7   2
+            C27   2
+            R14   2
+            C3   2
+            C16   2
+            C43   2
+            C41   2
+            C32   2
+            C39   2
+            C24   2
+            BR1   3
+            C13   2
+            C26   2
+            C23   1
+            C38   2
+            C12   2
+            C14   2
+            J7   1
+            J7   2
+            J7   3
+            J7   4
+            C35   2
+            C31   2
+
+.ADD_TER   J3   1     "Net-(J2-Pad1A)"
+.TER       J2   1A
+            J2   1B
+
+.ADD_TER   R19   2     "Net-(LED5-Pad2)"
+.TER       LED5   2
+
+.ADD_TER   R9   2     "Net-(LED1-Pad2)"
+.TER       LED1   2
+
+.ADD_TER   LED2   2     "Net-(LED2-Pad2)"
+.TER       R10   2
+
+.ADD_TER   T1   6     "Net-(F1-Pad2)"
+.TER       F1   2
+
+.ADD_TER   R18   1     "Net-(R18-Pad1)"
+.TER       U6   7
+
+.ADD_TER   R19   1     "Net-(R19-Pad1)"
+.TER       U6   1
+
+.ADD_TER   R17   1     "Net-(R17-Pad1)"
+.TER       U6   8
+
+.ADD_TER   J1   1     "Net-(F1-Pad1)"
+.TER       F1   1
+
+.ADD_TER   J3   3     "Net-(C5-Pad2)"
+.TER       C9   2
+            L6   3
+            C5   2
+            L6   4
+
+.ADD_TER   R3   1     "Net-(L3-Pad2)"
+.TER       L3   2
+
+.ADD_TER   R5   1     "+1.2V"
+.TER       C35   1
+            C31   1
+            C38   1
+            C26   1
+            C23   2
+            C36   2
+            L4   2
+            R6   1
+            U4   14
+            U6   3
+            J9   1
+            J9   2
+            J9   3
+            J9   4
+            +1.2V1   1
+
+.ADD_TER   U6   10     "+1.8V"
+.TER       R2   1
+            L2   2
+            C17   1
+            J11   4
+            U3   6
+            J11   3
+            +1.8V1   1
+            J11   1
+            J11   2
+            C32   1
+            C13   1
+            C20   1
+            C28   2
+            C24   1
+
+.ADD_TER   J8   1     "+5V"
+.TER       L1   2
+            R1   1
+            R9   1
+            J8   2
+            U1   6
+            J8   4
+            J8   3
+            R13   1
+            U6   4
+            C48   2
+            +5V1   1
+            C18   1
+            R12   1
+            C29   2
+            C15   1
+            R11   1
+            C25   1
+            C21   1
+            C33   1
+
+.ADD_TER   C27   1     "+0.8V-3.3V"
+.TER       J6   3
+            J6   2
+            J6   1
+            J6   4
+            C22   1
+            C34   1
+            C16   1
+            U6   5
+            +(0.8V-3V)1   1
+            C19   1
+            C30   2
+            R3   2
+
+.ADD_TER   BR1   1     "Net-(BR1-Pad1)"
+.TER       C1   2
+            C2   2
+            L6   1
+            L6   2
+
+.ADD_TER   U4   5     "Net-(R6-Pad2)"
+.TER       R7   1
+            R6   2
+
+.ADD_TER   R16   1     "Net-(R12-Pad2)"
+.TER       R12   2
+            U6   9
+
+.ADD_TER   LED3   2     "Net-(LED3-Pad2)"
+.TER       R17   2
+
+.ADD_TER   R4   1     "Net-(R3-Pad3)"
+.TER       U2   4
+            R3   3
+
+.ADD_TER   R18   2     "Net-(LED4-Pad2)"
+.TER       LED4   2
+
+.ADD_TER   C10   1     "Net-(C10-Pad1)"
+.TER       U2   6
+
+.ADD_TER   U6   2     "Net-(R13-Pad2)"
+.TER       R13   2
+            R15   1
+
+.ADD_TER   J1   3     "Net-(J1-Pad3)"
+.TER       T1   1
+
+.ADD_TER   T1   9     "Net-(T1-Pad10)"
+.TER       T1   10
+
+.ADD_TER   T1   4     "Net-(T1-Pad3)"
+.TER       T1   3
+
+.ADD_TER   R8   2     "Net-(R8-Pad2)"
+.TER       U5   4
+
+.ADD_TER   U6   6     "Net-(R11-Pad2)"
+.TER       R11   2
+            R14   1
+
+.ADD_TER   U3   7     "Net-(L2-Pad1)"
+.TER       L2   1
+
+.ADD_TER   R2   2     "Net-(R2-Pad2)"
+.TER       U3   8
+
+.ADD_TER   C6   1     "+12V"
+.TER       U5   13
+            U3   2
+            C12   1
+            C4   1
+            C44   1
+            U1   3
+            U1   2
+            C7   1
+            C3   1
+            U2   3
+            C46   1
+            U4   13
+            U4   12
+            U4   11
+            U4   10
+            C47   1
+            U5   11
+            U2   5
+            C11   1
+            C45   1
+            +12V1   1
+            J3   2
+            U5   12
+            U5   10
+            U3   3
+
+.ADD_TER   L1   1     "Net-(L1-Pad1)"
+.TER       U1   7
+
+.ADD_TER   U1   8     "Net-(R1-Pad2)"
+.TER       R1   2
+
+.ADD_TER   U5   9     "Net-(C14-Pad1)"
+.TER       C14   1
+
+.ADD_TER   U5   14     "+3.3V"
+.TER       R8   1
+            J12   2
+            C40   1
+            C43   1
+            C39   1
+            C41   1
+            R10   1
+            J12   3
+            J12   4
+            +3.3V1   1
+            L5   2
+            J12   1
+            C42   2
+            C37   1
+
+.ADD_TER   C8   1     "Net-(C8-Pad1)"
+.TER       U4   9
+
+.ADD_TER   R5   2     "Net-(R5-Pad2)"
+.TER       U4   4
+
+.ADD_TER   L4   1     "Net-(L4-Pad1)"
+.TER       U4   3
+            U4   2
+            U4   1
+
+.ADD_TER   U5   2     "Net-(L5-Pad1)"
+.TER       U5   3
+            U5   1
+            L5   1
+
+.ADD_TER   BR1   4     "Net-(BR1-Pad4)"
+.TER       T1   7
+
+.ADD_TER   BR1   2     "Net-(BR1-Pad2)"
+.TER       T1   12
+
+.END
